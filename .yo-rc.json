@@ -43,6 +43,22 @@
     "clientPackageManager": "npm",
     "languages": ["en", "ta", "te"],
     "enableGradleEnterprise": false,
-    "cypressCoverage": true
+    "cypressCoverage": true,
+    "entities": [
+      "Region",
+      "Country",
+      "Location",
+      "Department",
+      "Task",
+      "Employee",
+      "Job",
+      "JobHistory",
+      "Publisher",
+      "Author",
+      "Client",
+      "Book",
+      "BorrowedBook"
+    ],
+    "lastLiquibaseTimestamp": 1633821291000
   }
 }
