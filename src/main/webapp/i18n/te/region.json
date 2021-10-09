@@ -1,0 +1,24 @@
+{
+  "sampleApp1App": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Region  సృష్టించండి",
+        "createOrEditLabel": "Region సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Regions found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Region సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Region సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Region తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Region {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "id": "ID",
+      "regionName": "Region Name"
+    }
+  }
+}

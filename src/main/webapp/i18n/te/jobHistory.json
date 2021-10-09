@@ -1,0 +1,29 @@
+{
+  "sampleApp1App": {
+    "jobHistory": {
+      "home": {
+        "title": "Job Histories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "కొత్త Job History  సృష్టించండి",
+        "createOrEditLabel": "Job History సృష్టించండి లేదా సవరించండి",
+        "notFound": "No Job Histories found"
+      },
+      "created": "{{ param }} ఐడీ తో ఒక కొత్త Job History సృష్టించబడినది",
+      "updated": "{{ param }} ఐడీ తో ఒక కొత్త Job History సవరించబడినది",
+      "deleted": "{{ param }} ఐడీ తో ఒక కొత్త Job History తొలగించబడినది",
+      "delete": {
+        "question": "మీరు Job History {{ id }} ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"
+      },
+      "detail": {
+        "title": "Job History"
+      },
+      "id": "ID",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "language": "Language",
+      "job": "Job",
+      "department": "Department",
+      "employee": "Employee"
+    }
+  }
+}
